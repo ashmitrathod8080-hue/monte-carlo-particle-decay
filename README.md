@@ -43,4 +43,3 @@ Where:
 ```bash
 git clone https://github.com/yourusername/monte-carlo-particle-decay.git
 cd monte-carlo-particle-decay
-

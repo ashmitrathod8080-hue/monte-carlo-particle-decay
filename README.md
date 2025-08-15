@@ -56,7 +56,7 @@ The simulation produces a decay curve showing the number of remaining particles 
 <img width="1600" height="1000" alt="screenshot" src="https://github.com/user-attachments/assets/30034690-dcbe-4f10-aa68-5a165583be44" />
 
 
-#Possible Extensions
+Possible Extensions
 
 Calculate and display the theoretical decay curve alongside the simulated one
 

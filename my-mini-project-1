@@ -1,0 +1,20 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Parameters
+particles = 10000
+decay_prob = 0.01  # probability of decay per step
+steps = 500
+
+counts = [particles]
+for _ in range(steps):
+    decayed = np.random.rand(particles) < decay_prob
+    particles -= np.sum(decayed)
+    counts.append(particles)
+
+# Plot
+plt.plot(counts)
+plt.xlabel("Time Step")
+plt.ylabel("Remaining Particles")
+plt.title("Monte Carlo Simulation of Radioactive Decay")
+plt.show()

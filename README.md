@@ -43,3 +43,11 @@ Where:
 ```bash
 git clone https://github.com/yourusername/monte-carlo-particle-decay.git
 cd monte-carlo-particle-decay
+
+### 2. Install Dependencies
+pip install numpy matplotlib
+
+### 3. Run the Simulation
+python decay_simulation.py
+
+

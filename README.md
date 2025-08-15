@@ -53,8 +53,10 @@ python decay_simulation.py
 ## Example Output
 
 The simulation produces a decay curve showing the number of remaining particles at each time step:
+<img width="1600" height="1000" alt="screenshot" src="https://github.com/user-attachments/assets/30034690-dcbe-4f10-aa68-5a165583be44" />
 
-Possible Extensions
+
+#Possible Extensions
 
 Calculate and display the theoretical decay curve alongside the simulated one
 
@@ -64,5 +66,5 @@ Store simulation data to CSV for further analysis
 
 Author
 
-Your Name – B.Tech Computer Science student at KLE Technological University, Belagavi
+Ashmit Rathod  – B.E Computer Science student at KLE Technological University, Belagavi
 Interests: Computational Physics, AI/ML, Scientific Computing, Data Analysis

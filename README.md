@@ -40,7 +40,6 @@ Where:
 ## Installation & Usage
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/yourusername/monte-carlo-particle-decay.git
 cd monte-carlo-particle-decay
 
@@ -51,3 +50,19 @@ pip install numpy matplotlib
 python decay_simulation.py
 
 
+## Example Output
+
+The simulation produces a decay curve showing the number of remaining particles at each time step:
+
+Possible Extensions
+
+Calculate and display the theoretical decay curve alongside the simulated one
+
+Allow multiple decay channels with different probabilities
+
+Store simulation data to CSV for further analysis
+
+Author
+
+Your Name – B.Tech Computer Science student at KLE Technological University, Belagavi
+Interests: Computational Physics, AI/ML, Scientific Computing, Data Analysis
